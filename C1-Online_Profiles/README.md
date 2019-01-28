@@ -7,12 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[My Github account](https://github.com/urdans)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[My LinkedIn account](https://www.linkedin.com/in/jose-urdaneta1969/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+[Link to my resume](https://github.com/urdans/liftoff-assignments/tree/master/myFiles/Jose_Urdaneta-Software_Developer.pdf)
